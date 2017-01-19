@@ -1,0 +1,8 @@
+! https://thinkster.io/tutorials/angular-rails/integrating-angularjs-with-the-rails-asset-pipeline
+
+
+error
+AbstractController::Helpers::MissingHelperError in ApplicationController#angular
+Missing helper file helpers/c:/sites/flapper_news/app/helpers/application_helper.rb_helper.rb
+Solved: specified the path in git sonsole with capital S Sites
+
